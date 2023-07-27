@@ -1,4 +1,4 @@
-
+![logo](https://github.com/goswami6/goswami6/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akanksha Goswami</h1>
 <h3 align="center">A passionate Wed developer , UI/UX Designer form India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
